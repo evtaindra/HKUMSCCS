@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">HKUCSMSC</string>
+    <string name="title_about">About</string>
+    <string name="title_admission">Admission</string>
+    <string name="title_newsevents">NewsEvents</string>
+    <string name="title_curriculum">Curriculum</string>
+    <string name="title_sturesources">Resources</string>
+
+    <string name="about_leaderwelcome">We are living in the era where technology is widely accepted and becomes so commonplace that we doubt how we ever live without it. Mobile is a good prominent example. From businesses to individual consumers, everyone is connected to everyone, everywhere, all the time. Every day we hear of new technological breakthroughs, e.g. self-driving cars, organ-on-a-chip, smart glasses, drones; they are awe-inspiring. To remain in the game, the best IT professionals strive to maintain current knowledge and skills to take on these continual developments.\n\n
+    The Master of Science in Computer Science Programme is a comprehensive and challenging graduate programme with three specialisations and one general stream, namely Financial Computing Stream, Cyber Security Stream, Multimedia Computing Stream and General Computer Science Stream, to meet the needs of both industry and business in Asia, and to make the programme more unique among comparable programmes in the region.\n\n
+    As you can see from our curriculum, on one hand we have retained the nuts and bolts subjects to lay a strong foundation. But on the other hand, we updated and revised the curriculum continuously as we assess the career trends and needs of our students, and monitor rapid changes in technology developments. For example, hot topics like “fintech”, “blockchain” are included in some of our courses.\n\n
+    If you like the holistic approach of our teaching methods and curriculum, please consider enrolling in this established programme in a world-class university.\n\n\n\n
+    <b>Dr. K.P. Chow</b>\n <b>Programme Director</b>\n\n\n\n</string>
+
+    <string name="admission_requirements"><b>Admission Requirements</b>\n
+    Eligibility</string>
+    <string name="button_info_contact"><b>Contact Us</b></string>
+    <string name="button_info"><b>
+    The MSc Programme Office\n
+        Department of Computer Science\n
+        P3-02, Graduate House\n
+        The University of Hong Kong</b>\n
+    Tel: (852) 3917 1828\n
+        Fax: (852) 2547 4442\n
+        Email: <a href='msccs@cs.hku.hk'>msccs@cs.hku.hk</a>\n
+        Website URL:  <a href='http://www.msc-cs.hku.hk'>http://www.msc-cs.hku.hk</a>\n
+        Facebook Page: <a href='https://www.facebook.com/hkumsccs'>https://www.facebook.com/hkumsccs</a>\n
+        Office Hours:\n
+        Mon-Fri: 9:00am-12:30pm     1:30pm-5:00pm\n
+        Sat: 9:00am-12:00pm\n\n\n
+    </string>
+
+
+</resources>
