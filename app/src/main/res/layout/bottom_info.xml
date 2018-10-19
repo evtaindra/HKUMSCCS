@@ -10,19 +10,22 @@
             android:layout_height="wrap_content"
             android:text="@string/button_info_contact"
             android:textSize="20dp"
-            android:textColor="#FFFFFF"/>
+            android:textColor="#FFFFFF"
+            android:layout_marginTop="10dp"/>
 
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@drawable/msccslogo3" />
+            android:src="@drawable/msccslogo3"
+            android:layout_marginTop="10dp"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/button_info"
             android:textColor="#FFFFFF"
-            android:lineSpacingExtra="8dp"/>
+            android:lineSpacingExtra="8dp"
+            android:layout_marginTop="15dp"/>
 
 </LinearLayout>
 

@@ -12,8 +12,7 @@
     If you like the holistic approach of our teaching methods and curriculum, please consider enrolling in this established programme in a world-class university.\n\n\n\n
     <b>Dr. K.P. Chow</b>\n <b>Programme Director</b>\n\n\n\n</string>
 
-    <string name="admission_requirements"><b>Admission Requirements</b>\n
-    Eligibility</string>
+
     <string name="button_info_contact"><b>Contact Us</b></string>
     <string name="button_info"><b>
     The MSc Programme Office\n
@@ -27,8 +26,68 @@
         Facebook Page: <a href='https://www.facebook.com/hkumsccs'>https://www.facebook.com/hkumsccs</a>\n
         Office Hours:\n
         Mon-Fri: 9:00am-12:30pm     1:30pm-5:00pm\n
-        Sat: 9:00am-12:00pm\n\n\n
+        Sat:     9:00am-12:00pm\n\n\n
     </string>
+<string name="about_faculty">The Department of Computer Science is committed to
+    high-quality education and training of computing professionals at both the
+    undergraduate and postgraduate levels. At the postgraduate level, we offer two taught
+    programmes based on coursework, the MSc(CompSc) and the MSc(ECom and IComp), as well as
+    the research-based MPhil and PhD programmes.\n\n
 
+The academic staff is active in research and development in a variety of areas including
+    databases, parallel and distributed computing, computer networks, computer graphics,
+    algorithms and complexity, computer vision, multimedia, software engineering,
+    statistical computing, information security and computer forensics, and legal
+    aspects of computing. Some of our research results have been applied to the
+    development of real software and systems. You will have these researchers as your
+    inspiring teachers of the courses in this programme. Here are some of them.
+</string>
 
+    <string name="chanhth"><b>Dr. Chan H.T.H.</b>\nPhD (Carnegie Mellon)\n\nField of Research:\nAlgorithms, Combinatorial Optimization, Graphs, Information Networks, Security and Privacy</string>
+    <string name="chankp"><b>Dr. Chan K.P.</b>\nPhD (HK)\n\nField of Research:\nPattern Recognition, Chinese Computing, Facial Expression Recognition, Machine Learning</string>
+    <string name="benkao"><b>Prof. Kao B.C.M.</b>\nPhD (Princeton)\n\nField of Research:\nDatabase Management Systems, Data Mining, Real-time Systems, Information Retrieval Systems</string>
+    <string name="abouthku"><b>The University of Hong Kong</b>\n\nThe University of Hong Kong (HKU), founded in 1911, is the oldest of Hong Kong’s institutions of higher learning.  It was also the alma mater of Dr. Sun Yat-sen, the founder of modern China.\n\n
+        HKU, as a pre-eminent international university, seeks to sustain and enhance its excellence as an institution of higher learning through outstanding teaching and world-class research so as to produce well-rounded graduates with lifelong abilities to provide leadership within the societies they serve.\n\n
+        HKU has ten faculties, a graduate school and a number of independent centres of studies and learning. In 2016-17, it had a student population of over 27,800, including over 16,100 undergraduates and 11,700 postgraduates, and an academic staff population of around 3,400. Coupled with an active alumni network and generous endowments for programme research and development, HKU is a dynamic and exciting institution. Stepping into Asia’s next century of phenomenal growth.</string>
+
+    <string name="admission_requirements1"><b>Admission Requirements</b>\n</string>
+    <string name="admission_requirements2"><b>Eligibility</b>\n</string>
+    <string name="admission_requirements3">To be eligible for admission to the programmes, a candidate shall satisfy both the University Entrance Requirements and the Programme Entrance Requirements including but not limited to:\n</string>
+    <string name="admission_requirements4"> a.    shall comply with the General Regulations;\n\nb.    shall hold a Bachelor’s degree of this University or a qualification of equivalent standard from this University or another comparable institution accepted for this purpose;\n\nc.    for a candidate who is seeking admission on the basis of a qualification from a university or comparable institution outside Hong Kong of which the language of teaching and/or examination is not English, shall satisfy the University English language requirement applicable to high degrees as prescribed under General Regulation G2(b); and\n\nd.    satisfy the examiners in a qualifying examination if required.</string>
+    <string name="admission_requirements5"><b>Regulations</b>\n</string>
+    <string name="admission_requirements6">1. General Regulations of The University</string>
+    <string name="admission_requirements7">https://www4.hku.hk/pubunit/drcd/files/pgdr2017-18/genreg.pdf\n\n</string>
+    <string name="admission_requirements8">2. University\'s Regulations for Taught Postgraduate Curricula:\n</string>
+    <string name="admission_requirements9">https://www4.hku.hk/pubunit/drcd/files/pgdr2017-18/tpg-regulations.pdf\n</string>
+    <string name="admission_requirements10">3. Degree Regulations of MSc(CompSc) for students admitted to the curriculum in 2017-2018 and thereafter:\n</string>
+    <string name="admission_requirements11">http://www.msc-cs.hku.hk/Media/Default/RegulationSyllabus/Regulations_MSc_2017-18.pdf\n</string>
+    <string name="admission_requirements12">http://www.msc-cs.hku.hk/Media/Default/RegulationSyllabus/Syllabus_MSc(CompSc)_2018-19.pdf\n</string>
+    <string name="admission_requirements13">English Language Proficiency Requirement\n</string>
+    <string name="admission_requirements14">Applicants who wish to be admitted on the basis of a qualification from a university or comparable institution outside Hong Kong where the language of teaching and/or examination is not English are required to obtain:\n</string>
+    <string name="admission_requirements15">a. a score of 550 or above (paper-based test) or 80 or above (internet-based test) in the Test of English as a Foreign Language (TOEFL).  Applicants who took the TOEFL should request the Educational Testing Service (ETS) to send an official score report to the University directly. For this purpose, the HKU TOEFL code is 9671. Test scores more than two years old will not be accepted; or\n\nb. a minimum overall band of 6 with no subtest lower than 5.5 in the International English Language Testing System (IELTS); or\n\nc. grade C or above in the Overseas General Certificate of Education (GCE); or\n\nd. grade C or above in the International General Certificate of Secondary Education (IGCSE); or\n\ne. grade C or above in the Cambridge Test of Proficiency in English Language;\n</string>
+    <string name="admission_requirements16">unless in exceptional circumstances they are exempted from this requirement.\n</string>
+
+    <string name="admission_procedures1"><b>Application Procedures</b></string>
+    <string name="admission_procedures2">Applicants can submit their application via the online application system by clicking the following button.\n</string>
+    <string name="admission_procedures3">The following supporting documents should be uploaded to the online application system before the application deadline or expiry of your application account (which is valid for four weeks only), whichever is earlier:</string>
+    <string name="admission_procedures4">• Graduate transcript(s) with grading system of all tertiary level studies\n\n• Degree certificate(s)\n\n• English Language proficiency test score report, such as TOEFL or IELTS (only for applicants with qualifications from institutions outside Hong Kong where the language of instruction and/or examination is not English)\n\n• Proof of Cumulative Grade Point Average (CGPA) / average grade / average mark\n\n• Official proof of class ranking, if available\n\n• A curriculum vitae (C.V.)</string>
+    <string name="admission_procedures5">Applicants are not required to submit original documents during the application stage.  Should an applicant be given an admission offer by the Programme, he/she will receive notification of the need to submit original/certified true copy* of the documents to the MSc(CompSc) Programme Office.\n\nPlease note that documents once submitted will not be returned, and will be destroyed if the application is unsuccessful.\n\n*The University will only ACCEPT originals and copies of the documents that have been duly declared as true copies before a notary public.</string>
+    <string name="admission_procedures6">Application Fee\n\n</string>
+    <string name="admission_procedures7">The application fee is HK$300 (non-refundable), paid by credit card online.</string>
+    <string name="admission_procedures8">Application Timetable\n\n</string>
+    <string name="admission_procedures9">To be considered for a round, you must submit a complete application, including all online / mail-in materials by the day of the deadline.\n\nThe results for admission in September are normally available by July of the same year. Hence, applicants who do not hear from the Faculty of Engineering by July 31, 2019 may assume the application to be unsuccessful.\n</string>
+
+    <string name="admission_compositionfees1">Composition Fees\n</string>
+    <string name="admission_compositionfees2">The composition fee for each 6 credit-units in MSc(CompSc) is HK$13,000*.  The dissertation, which is equivalent to 24 credits, has a composition fee of HK$52,000*.  The total composition fees are therefore as follows:\n</string>
+    <string name="admission_compositionfees3">48 credit-units (8 courses) + dissertation:\n(HK$13,000* x 8) + (HK$52,000*) = HK$156,000*\n</string>
+    <string name="admission_compositionfees4">Students who select to study a course from the MSc(ECom and IComp) and MSc(Eng) programmes have to pay HK$13,000* and HK$12,000* respectively per 6-credit course.\n\n* Subject to University approval\n\nFees for enrolled courses are paid on semester basis.  The first instalment of composition fees of 12 credit-units is payable at the time of acceptance of an offer of admission.\n\nGenerally composition fees for cancelled enrolment before specified deadline are not refunded, but can be used to pay for another enrolled course or carried over to the next semester as credit. (Subject to the approval by the University)\n\n</string>
+    <string name="admission_compositionfees5">Financial Assistance\n</string>
+    <string name="admission_compositionfees6"><i>For Hong Kong Residents\n</i></string>
+    <string name="admission_compositionfees7">Some of our courses have been included in the list of reimbursable courses for the Hong Kong Continuing Education Fund (CEF) which provides reimbursement up to HK$10,000 for eligible local students.  More details available at:</string>
+    <string name="admission_compositionfees8">http://www.wfsfaa.gov.hk/cef/index.htm\n\n</string>
+    <string name="admission_compositionfees9"><i>For PRC Candidates\n</i></string>
+    <string name="admission_compositionfees10">PRC students who have successfully applied and been offered a place in the Master of Science in Computer Science as full-time students in Hong Kong have an opportunity to have their composition fees reduced if they apply and are awarded The China Postgraduate Scholarships for Computer Science.\n\nThe maximum number of scholarships for 2019-20 is thirty, with a maximum value of HK$30,000 each.\n\nThe scholarships shall be used to meet part of the composition fees for a full-time programme of studies leading to the degree of Master of Science in Computer Science.\n\nThe scholarships shall be awarded mainly on the basis of academic merits.7\n</string>
+
+    <string name="admission_informationsessions1">Information Sessions\n</string>
+    <string name="admission_informationsessions2">Join us at the information sessions, and find out if the Master of Science in Computer Science Programme is the right fit for your career goals. Information Sessions include a programme overview and Q and A, plus the opportunity to talk informally with Programme Director and staff. Potential applicants are welcome.\n\nInformation sessions will be organized in Hong Kong and Mainland China. Details of these information sessions will be announced on our website and/or advertised online and in major local newspapers.\n\nDetails of the information sessions:\n</string>
 </resources>
