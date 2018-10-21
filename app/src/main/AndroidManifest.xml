@@ -21,6 +21,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".Admission.Stu_Clark"/>
+        <activity android:name=".Admission.Stu_cuiyitong"/>
+        <activity android:name=".Admission.Stu_Hutianyi"/>
+        <activity android:name=".Admission.Stu_Lee"/>
     </application>
 
 </manifest>

@@ -1,6 +1,106 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout
+<ScrollView
     xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-</android.support.constraint.ConstraintLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="38dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="16dp"
+            android:text="@string/admission_ourstudents1"
+            android:textSize="25dp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:src="@drawable/smallyellow" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginTop="20dp"
+            android:lineSpacingExtra="6dp"
+            android:text="@string/admission_ourstudents2" />
+
+        <ImageView
+            android:id="@+id/clark"
+            android:transitionName="Clark"
+            android:layout_width="wrap_content"
+            android:layout_height="263dp"
+            android:layout_margin="10dp"
+            android:src="@drawable/clark" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:lineSpacingExtra="6dp"
+            android:layout_gravity="center"
+            android:text="Mr. Clark Matthew William
+2017 graduate
+" />
+
+        <ImageView
+            android:id="@+id/cuiyitong"
+            android:layout_width="wrap_content"
+            android:layout_height="202dp"
+            android:layout_gravity="center"
+            android:layout_margin="10dp"
+            android:transitionName="Cuiyitong"
+            android:src="@drawable/cuiyitong" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:lineSpacingExtra="6dp"
+            android:layout_gravity="center"
+            android:text="Miss Cui Yitong
+2017 student" />
+
+        <ImageView
+            android:id="@+id/hutianyi"
+            android:layout_width="320dp"
+            android:layout_height="184dp"
+            android:layout_gravity="center"
+            android:layout_margin="10dp"
+            android:transitionName="Hutianyi"
+            android:src="@drawable/hutianyi" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:lineSpacingExtra="6dp"
+            android:layout_gravity="center"
+            android:text="Mr. Hu Tianyi
+2016 student" />
+
+        <ImageView
+            android:id="@+id/lee"
+            android:layout_width="320dp"
+            android:layout_height="184dp"
+            android:layout_gravity="center"
+            android:layout_margin="10dp"
+            android:transitionName="lee"
+            android:src="@drawable/leelitong" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:lineSpacingExtra="6dp"
+            android:layout_gravity="center"
+            android:text="Mr. Lee Lip Tong
+2017 student" />
+        <include layout="@layout/bottom_info" />
+    </LinearLayout>
+</ScrollView>

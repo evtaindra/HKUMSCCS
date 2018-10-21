@@ -26,6 +26,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
             android:layout_marginTop="20dp"
             android:lineSpacingExtra="6dp"
             android:text="@string/admission_procedures2" />
@@ -43,6 +44,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
             android:layout_marginTop="20dp"
             android:lineSpacingExtra="6dp"
             android:text="@string/admission_procedures3" />
@@ -51,6 +53,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="25dp"
+            android:layout_marginRight="16dp"
             android:lineSpacingExtra="6dp"
             android:text="@string/admission_procedures4" />
 
@@ -58,6 +61,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
             android:layout_marginTop="20dp"
             android:lineSpacingExtra="6dp"
             android:text="@string/admission_procedures5" />
@@ -74,6 +78,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
             android:layout_marginTop="20dp"
             android:lineSpacingExtra="6dp"
             android:text="@string/admission_procedures7" />
@@ -96,6 +101,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
             android:layout_marginTop="20dp"
             android:lineSpacingExtra="6dp"
             android:text="@string/admission_procedures9" />
