@@ -19,7 +19,7 @@ import hk.hku.cs.buttonnavigationtest.R;
  *  文件名：    OurStudents
  *  创建者：    BENNETT
  *  创建时间：  2018/10/17 13:24
- *  描述：      TODO
+ *  描述：      学生界面
  */public class OurStudents extends Fragment {
 
     @Nullable

@@ -97,4 +97,79 @@ The academic staff is active in research and development in a variety of areas i
     <string name="admission_cuiyitongwords">Studying in HKU MSc(CompSc) has prepared me for success in a couple of ways.  First, MSc(CompSc) offers a range of courses tailored to meet the specific academic and professional goals of each student.  Most of the hot topics are involved, such as Machine Learning, Data Mining, Deep Learning, Cloud Computing, Blockchain technology, etc.  When I do job-hunting, I find the courses have really offered help to me down-to-earth.  The programme also gives me much resources of knowledge and job opportunities.  Second, the strict requirements of each course induce me to be hard-working all the time, and provide me with many advanced learning skills.  The teamwork tasks gave me opportunity to know more about my classmates, who are down-to-earth and humble.\n\nCountless sleepless nights in HKU MSc(CompSc)  made me a better person.  It was an incredible experience that I don't think I could have anywhere else.</string>
     <string name="admission_hutianyiwords">In the past year, I benefit a lot from tough courses in this program, which makes up my deficiency in coding experience and brings me edge-cutting knowledge. Meanwhile, the design of four streams helps me concentrate on the study of computational finance. Comparing with programs in other universities, I think numerous opportunities provided by this program is a great advantage. Some teachers are from teaching staff with strong research experience while others are from industry with enrich working experience, meaning that communicating with them positively can bring us extra benefits. Furthermore, thanks to the reputation of the University of Hong Kong, we have access to many competitions, one of which is Rotman International Trading Competition held in Toronto competing with other top universities among the world. Through those competitions, I make friends with experienced algo traders and they also teach me much beyond the book, which enhance my will to work in this industry. \n\nAll in all, this program is really fruitful, and students from different background can get what they want. But the study period is short, I think designing the study plan on first day is important and necessary. Just be open and outgoing, the precious opportunity is around us.</string>
     <string name="admission_leelitongwords">There are a wide range of courses to choose from - AI, cybersecurity and financial computing to name a few. The course contents are up to date and HKU provides quality resources so that the learning process is smooth and unhindered.  The best part about the MSc programme is perhaps the people that you meet - I’ve made many friends with similar interest and drive.  We also have down-to-earth professors who are willing to dedicate time and effort to introduce current concepts and topics relevant to the industry.  On top of having a rigorous and well laid out curriculum, studying at HKU gives me an enjoyable and dynamic student life.  I am able to easily meet people entering or already working in the tech industry and I’m also able to practice and learn both Cantonese and Mandarin due to the diversity of students.  Lastly, Hong Kong provides a fun and safe place to study and is ideally located to immerse oneself into what is perhaps the world’s largest and most sophisticated mecca of technology - the Greater Bay Area."</string>
+
+    <string name="admission_admission_faq1">1. I am an undergraduate student in the final year. Can I apply your programme?</string>
+    <string name="admission_admission_faq2">2. What supporting documents are required?</string>
+    <string name="admission_admission_faq3">3. Do I need to post the hardcopy of supporting doucments to HKU during application?</string>
+    <string name="admission_admission_faq4">4. Are photocopies of the TOEFL or IELTS reports accepted?</string>
+    <string name="admission_admission_faq5">5. Do I need to submit a C.V. or a personal statement?</string>
+    <string name="admission_admission_faq6">6. Do I need to submit reference letters? Is there any form for referees?</string>
+    <string name="admission_admission_faq7">7. I am an applicant from Mainland China. How do I apply the China Postgraduate Scholarships for Computer Science?</string>
+    <string name="admission_admission_faq8">8. How many confidential statements from referee are required if I apply the China Postgraduate Scholarships?</string>
+    <string name="admission_admission_faq9">9. When will I know the application results?</string>
+
+    <string name="admission_admission_faq1_answer">You can submit application if you expect that you will complete your current study and obtain official certification on your graduation by August. Non-local students should however note that the official offer letter of admission could be issued only after you have submitted the official certificate on graduation and the complete transcript. This official offer letter is required for your student visa application which will take at least 6 to 8 weeks. Therefore, you may have to reserve enough time for visa application.</string>
+    <string name="admission_admission_faq2_answer1">Along with the application the following documents are required to be submitted:</string>
+    <string name="admission_admission_faq2_answer2">1.Graduate transcript(s) with grading system of all tertiary level studies (or interim transcript if graduate transcript is not available yet)\n2.Officially certified degree certificate(s), if available\nEnglish Language proficiency test score report, such as TOEFL or IELTS (only for applicants with qualifications from institutions outside HK where the language of instruction and/or examination is not English)\nProof of Cumulative Grade Point Average (CGPA) / average grade / average mark
+If the transcript does not show the cumulative GPA / average grade / average mark, or no school proof is available, please complete calculation sheet (Please use this template to calculate the Cumulative Grade Point Average (CGPA) / average grade / average mark). Instructions can be found at: https://engg.hku.hk/faculty_msc/help.pdf.
+5.Official proof of class ranking, if available
+6.A curriculum vitae (C.V.)</string>
+    <string name="admission_admission_faq2_answer3">Applicants are NOT required to submit original documents during the application stage. Should an applicant be given an admission offer by the Programme, he/she will receive notification of the need to submit original/certified true copy* of the documents.
+
+* The University will only ACCEPT originals or copies of the documents that have been duly declared as true copies before a notary public (e.g. a Commissioner for Oaths at a City District Office in Hong Kong). Copies of documents may be certified by the appropriate officials of your home institution if you are an overseas applicant. No photocopies will be accepted.
+
+Please note that documents once submitted will not be returned, and will be destroyed if the application is unsuccessful.</string>
+    <string name="admission_admission_faq3_answer">Applicants are recommended to provide the softcopy of all supporting documents, which can be uploaded to the on-line application system within 4 weeks after account creation.
+
+Applicants are NOT required to submit original documents during the application stage.
+
+The chance of being admitted are the same even if only softcopy are provided.
+
+Should an applicant be given an admission offer by the Programme, he/she will receive notification of the need to submit original/certified true copy of the documents.
+
+Please note that documents once submitted will not be returned, and will be destroyed if the application is unsuccessful.</string>
+    <string name="admission_admission_faq4_answer">Only original test reports are accepted. You could ask the test center to send the official reports directly to HKU.</string>
+    <string name="admission_admission_faq5_answer">Yes, you are required to submit a C.V.
+
+Personal statement is optional.</string>
+    <string name="admission_admission_faq6_answer">If you are applying the China Postgraduate Scholarships for Computer Science, please refer to question 7 and 8. Otherwise, you do not need to submit reference letters or ask your referees to complete a form at the time of application. The Programme Office will contact you or the referees directly afterwards if reference letters are required.</string>
+    <string name="admission_admission_faq7_answer">Application for the Scholarship has to be made together with the application for admission. You need to indicate on the online application system and submit the scholarship application form and the confidential statement from referee by the deadline which is the same as that of admission. The form can be downloaded from the online application system as supporting documents. Any application forms received after the admission result is announced will not be considered.</string>
+    <string name="admission_admission_faq8_answer">One confidential statement from referee is required. You can download the form from the online application system.</string>
+    <string name="admission_admission_faq9_answer">The admission selection committee works continuously for months to review the large number of applications and to conduct interviews in order to select top candidates for admission to this MSc programme.
+
+Successful applicants will be notified of the result once it is ready.
+
+However, if you have not heard from us by 31 July 2019, you may assume that your application is not successful.</string>
+
+    <string name="admission_visrelated_faq1">1. How to apply for the student visa?</string>
+    <string name="admission_visrelated_faq2">2. I am a non-local applicant. How do I get information about student visa, finance, accommodation and life in HKU?</string>
+    <string name="admission_visrelated_faq3">3. If I have a valid work visa or tourist visa, do I need a student visa for studying in Hong Kong?</string>
+    <string name="admission_visrelated_faq4">4. Can I work in Hong Kong if I am holding a student visa?</string>
+<!--
+    <string name="admission_visrelated_faq1_answer"></string>
+    <string name="admission_visrelated_faq2_answer"></string>
+    <string name="admission_visrelated_faq3_answer"></string>
+    <string name="admission_visrelated_faq4_answer"></string>
+    -->
+
+    <string name="curriculum_courses1">Programme Overview</string>
+    <string name="curriculum_courses2">The MSc(CompSc) programme is a comprehensive postgraduate study programme provides advanced and in-depth learning in Computer Science.  The programme is credit unit based, with courses of both applied and fundamental nature.\n\nStudents can choose focussed streams of study or a comprehensive and diversified study in Computer Science, i.e. the General Stream.\n\nFocussed streams of study represent a cohesive collection of related courses that provides both fundamental and in-depth exposure to students in a given ICT domain.  Students can extend and deepen their knowledge in the specialization streams in Cyber Security, Multimedia Computing and Financial Computing.\n </string>
+    <string name="curriculum_courses3">Stream of Study</string>
+    <string name="curriculum_courses4">Cyber Security</string>
+    <string name="curriculum_courses5">The Cyber Security Stream is a multidisciplinary area of study and professional activity concerned with state-of-the-art technology in cyber security. The curriculum covers different aspects of cyber security from different perspectives, including technical, organisational, human-oriented and legal.</string>
+    <string name="curriculum_courses6">Multimedia Computing</string>
+    <string name="curriculum_courses7">The Multimedia Computing Stream focuses on multimedia computing, communications, analytics, visualisation and applications.\n\nMultimedia Computing encompasses media coding and processing, streaming-media middleware, media representations, real-time protocols, media analysis, and human-interaction and visualisation techniques.\n\nStudents are encouraged to develop innovative ideas using the latest development in technology such as mobile devices and big-data analytics.\n\n</string>
+    <string name="curriculum_courses8">Financial Computing</string>
+    <string name="curriculum_courses9">The Financial Computing Stream is the study of data and algorithms used in finance and the mathematics of computer programs that realise financial models or systems.\n\nFinancial Computing emphasises practical numerical methods and focuses on techniques that are directly applicable to business and financial analysis.\n\nThe emphasis will be in the computing aspect of the financial industry.\n\n</string>
+    <string name="curriculum_courses10">General Stream</string>
+    <string name="curriculum_courses11">The General Stream covers a broad, comprehensive range of Computer Science subjects, including a wide range of courses from which students can choose from. It offers students the most flexibility to design their own study portfolio based on their career aspiration or requirements.</string>
+    <string name="curriculum_courses12">Pattern of Study</string>
+    <string name="curriculum_courses13">Students are required to complete 72 credits, of which 48 credits from courses (equivalent to eight 6-credit courses) plus a dissertation (equivalent to 24 credits). </string>
+    <string name="curriculum_courses14">Selection of Courses</string>
+    <string name="curriculum_courses15">Students of Cyber Security, Multimedia Computing, or Financial Computing Stream are required to select a minimum of 24 credits of stream specific courses (equivalent to four 6-credit courses) in the corresponding subject group, and undertake a dissertation in the area of the corresponding stream.\n\nFor General Stream, students can choose 48 credits of courses (equivalent to eight 6-credit courses) from any stream and subject group in the curriculum, and undertake a dissertation in any area in computer science.\n\nIn addition to the list of MSc(CompSc) courses for students to choose from, students may select no more than 12 credits of courses (equivalent to two 6-credit courses) from the syllabuses for the degrees of MSc(ECom and IComp) and MSc(Eng), subject to the approval of the Head of the Department of Computer Science.  Details of courses from MSc(ECom and IComp) can be found in this website:\n </string>
+    <string name="curriculum_courses16">https://www.ecom-icom.hku.hk</string>
+    <string name="curriculum_courses17">Capstone Experience – Dissertations</string>
+    <string name="curriculum_courses18">The capstone experience will definitely be beneficial for students to put together what they have learnt in the programme and demonstrate a deeper understanding of the knowledge they have acquired. Students are required to complete a dissertation (24 credits) and attend some supplementary workshops. The dissertation would represent students’ consolidated capstone experience in their study.</string>
+    <string name="curriculum_courses19">Programme Overview</string>
+
 </resources>
