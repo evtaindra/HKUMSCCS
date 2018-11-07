@@ -1,4 +1,4 @@
-<resources>
+<resources xmlns:http="http://schemas.android.com/tools">
     <string name="app_name">HKUCSMSC</string>
     <string name="title_about">About</string>
     <string name="title_admission">Admission</string>
@@ -109,16 +109,15 @@ The academic staff is active in research and development in a variety of areas i
     <string name="admission_admission_faq9">9. When will I know the application results?</string>
 
     <string name="admission_admission_faq1_answer">You can submit application if you expect that you will complete your current study and obtain official certification on your graduation by August. Non-local students should however note that the official offer letter of admission could be issued only after you have submitted the official certificate on graduation and the complete transcript. This official offer letter is required for your student visa application which will take at least 6 to 8 weeks. Therefore, you may have to reserve enough time for visa application.</string>
-    <string name="admission_admission_faq2_answer1">Along with the application the following documents are required to be submitted:</string>
-    <string name="admission_admission_faq2_answer2">1.Graduate transcript(s) with grading system of all tertiary level studies (or interim transcript if graduate transcript is not available yet)\n2.Officially certified degree certificate(s), if available\nEnglish Language proficiency test score report, such as TOEFL or IELTS (only for applicants with qualifications from institutions outside HK where the language of instruction and/or examination is not English)\nProof of Cumulative Grade Point Average (CGPA) / average grade / average mark
+    <string name="admission_admission_faq2_answer">Along with the application the following documents are required to be submitted:\n\n1.Graduate transcript(s) with grading system of all tertiary level studies (or interim transcript if graduate transcript is not available yet)\n2.Officially certified degree certificate(s), if available\nEnglish Language proficiency test score report, such as TOEFL or IELTS (only for applicants with qualifications from institutions outside HK where the language of instruction and/or examination is not English)\nProof of Cumulative Grade Point Average (CGPA) / average grade / average mark
 If the transcript does not show the cumulative GPA / average grade / average mark, or no school proof is available, please complete calculation sheet (Please use this template to calculate the Cumulative Grade Point Average (CGPA) / average grade / average mark). Instructions can be found at: https://engg.hku.hk/faculty_msc/help.pdf.
 5.Official proof of class ranking, if available
-6.A curriculum vitae (C.V.)</string>
-    <string name="admission_admission_faq2_answer3">Applicants are NOT required to submit original documents during the application stage. Should an applicant be given an admission offer by the Programme, he/she will receive notification of the need to submit original/certified true copy* of the documents.
+6.A curriculum vitae (C.V.)\n\nApplicants are NOT required to submit original documents during the application stage. Should an applicant be given an admission offer by the Programme, he/she will receive notification of the need to submit original/certified true copy* of the documents.
 
 * The University will only ACCEPT originals or copies of the documents that have been duly declared as true copies before a notary public (e.g. a Commissioner for Oaths at a City District Office in Hong Kong). Copies of documents may be certified by the appropriate officials of your home institution if you are an overseas applicant. No photocopies will be accepted.
 
 Please note that documents once submitted will not be returned, and will be destroyed if the application is unsuccessful.</string>
+
     <string name="admission_admission_faq3_answer">Applicants are recommended to provide the softcopy of all supporting documents, which can be uploaded to the on-line application system within 4 weeks after account creation.
 
 Applicants are NOT required to submit original documents during the application stage.
@@ -145,12 +144,41 @@ However, if you have not heard from us by 31 July 2019, you may assume that your
     <string name="admission_visrelated_faq2">2. I am a non-local applicant. How do I get information about student visa, finance, accommodation and life in HKU?</string>
     <string name="admission_visrelated_faq3">3. If I have a valid work visa or tourist visa, do I need a student visa for studying in Hong Kong?</string>
     <string name="admission_visrelated_faq4">4. Can I work in Hong Kong if I am holding a student visa?</string>
-<!--
-    <string name="admission_visrelated_faq1_answer"></string>
-    <string name="admission_visrelated_faq2_answer"></string>
-    <string name="admission_visrelated_faq3_answer"></string>
-    <string name="admission_visrelated_faq4_answer"></string>
-    -->
+
+    <string name="admission_visrelated_faq1_answer">Non-local students, including those from the Mainland China, must obtain a visa in order to study in Hong Kong. Without a valid visa, they cannot register for their study in the University. The student visa will also enable students to enter Hong Kong as students.
+
+The application procedures for a student visa to Hong Kong are available on the Centre of Development and Resources for Students (CEDARS) website at http://cedars.hku.hk
+
+All applicants for a student visa to HKSAR are required to have a local sponsor. Students* coming to HKU should nominate CEDARS to be their visa sponsor by completing and returning to CEDARS an application form for visa sponsorship with all the required documents and payment.
+
+        * Mainland China students enrolled in taught postgraduate programme, should apply to the China Affairs Office <a href = "http://www.als.hku.hk/hkucao/svapp_e.php/"/> for visa sponsorship.
+
+All non-Hong Kong students who intend to stay for more than 6 months should obtain a Hong Kong Identity Card after their arrival.</string>
+    <string name="admission_visrelated_faq2_answer">Composition fees of MSc(CompSc): <a href = "https://www.msc-cs.hku.hk/Admission/Fees"/>
+Support to Non-local Applicants: <a href = "https://engg.hku.hk/faculty_msc/non-local.htm"/> (information provided by the Faculty of Engineering)
+Support for Non-local Students: <a href = "http://cedars.hku.hk/sections/SupportIntl.php"/> (information provided by the Centre of Development and Resources for Students)
+HKU Preparatory Guide for Non-local Students: <a href = "https://www.cedars.hku.hk/nonlocal/publication/prepguide1718.pdf"/>(information provided by the Centre of Development and Resources for Students</string>
+    <string name="admission_visrelated_faq3_answer">Holder of Work Visa
+
+- If you have a valid work visa for Hong Kong that covers the programme period, you will not need another visa to study in the part-time MSc Programme.
+
+Holder of Tourist Visa
+
+        - Tourist visa does not allow you to study in Hong Kong.  Students who do not have the right to abode in Hong Kong are required to apply for a student visa for entering into Hong Kong and studying on a <b>full-time</b> master degree programme.</string>
+    <string name="admission_visrelated_faq4_answer">In principle, Faculty of Engineering of the University of Hong Kong does not support any work outside HKU undertaken by non-local TPG students entering Hong Kong with student visa.
+
+Yet, the visa/entry permit should normally have the indication by the Director of Immigration on no objection for taking up study/curriculum related internship endorsed by the University for up to one-third of the duration of the programme as long as the person remains studying in the University and the limit of stay in Hong Kong remains unexpired.
+
+Non-local full-time students may take up part-time on-campus employment for not more than 20 hours per week throughout the year and summer jobs during the summer months (i.e. 1 June to 31 August) without any limit in relation to working hours and location.
+
+The Faculty of Engineering has further guidelines regulating non-local full-time TPG students for internship and work.  The Faculty does not object to the full-time non-local students to undertake internship or work during summer in or outside Hong Kong only on the following conditions:
+
+the student has not graduated;
+the student has not enrolled in any course(s) in the summer semester;
+the student does not have an incomplete project/dissertation in the TPG programme; and
+the work is related to the field of study.
+Please refer to the detailed information under "Employment during the Study Programme" of the webpage of HKSAR Immigration Department at: <a href="http://www.immd.gov.hk/eng/faq/imm-policy-study.html"/></string>
+
 
     <string name="curriculum_courses1">Programme Overview</string>
     <string name="curriculum_courses2">The MSc(CompSc) programme is a comprehensive postgraduate study programme provides advanced and in-depth learning in Computer Science.  The programme is credit unit based, with courses of both applied and fundamental nature.\n\nStudents can choose focussed streams of study or a comprehensive and diversified study in Computer Science, i.e. the General Stream.\n\nFocussed streams of study represent a cohesive collection of related courses that provides both fundamental and in-depth exposure to students in a given ICT domain.  Students can extend and deepen their knowledge in the specialization streams in Cyber Security, Multimedia Computing and Financial Computing.\n </string>

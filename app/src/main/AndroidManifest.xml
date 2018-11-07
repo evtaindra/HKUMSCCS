@@ -25,6 +25,9 @@
         <activity android:name=".Admission.Stu_cuiyitong"/>
         <activity android:name=".Admission.Stu_Hutianyi"/>
         <activity android:name=".Admission.Stu_Lee"/>
+        <activity android:name=".Admission.FAQ_admission"/>
+        <activity android:name=".Admission.FAQ_visa"/>
+        <activity android:name=".Admission.FAQ_answer"/>
     </application>
 
 </manifest>
