@@ -42,11 +42,65 @@
             android:layout_marginLeft="16dp"
             android:src="@drawable/smallyellow" />
 
-
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="26dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="20dp"
+            android:text="@string/curriculum_courses4"
+            android:textSize="20dp" />
         <ImageView
+            android:id="@+id/cyberSecirity_move"
+            android:layout_margin="10dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@drawable/cyber_security"/>
+            android:src="@drawable/cyber_security"
+            android:transitionName="CyberSecurity"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="26dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="20dp"
+            android:text="@string/curriculum_courses6"
+            android:textSize="20dp" />
+        <ImageView
+            android:id="@+id/MultimediaComputing_move"
+            android:layout_margin="10dp"
+            android:src="@drawable/multimediacomputing"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:transitionName="MultimediaComputing"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="26dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="20dp"
+            android:text="@string/curriculum_courses8"
+            android:textSize="20dp" />
+        <ImageView
+            android:id="@+id/FinancialComputing_move"
+            android:layout_margin="10dp"
+            android:src="@drawable/financialcomputin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:transitionName="FinancialComputing"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="26dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="20dp"
+            android:text="@string/curriculum_courses10"
+            android:textSize="20dp" />
+        <ImageView
+            android:id="@+id/General_move"
+            android:layout_margin="10dp"
+            android:src="@drawable/generalstream"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:transitionName="General"/>
 
         <include layout="@layout/bottom_info" />
     </LinearLayout>

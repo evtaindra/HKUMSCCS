@@ -28,6 +28,11 @@
         <activity android:name=".Admission.FAQ_admission"/>
         <activity android:name=".Admission.FAQ_visa"/>
         <activity android:name=".Admission.FAQ_answer"/>
+
+        <activity android:name=".Curriculum.Overview_cyber"/>
+        <activity android:name=".Curriculum.Overview_FinalcialComuputing"/>
+        <activity android:name=".Curriculum.Overview_General"/>
+        <activity android:name=".Curriculum.Overview_MultimediaComputing"/>
     </application>
 
 </manifest>
