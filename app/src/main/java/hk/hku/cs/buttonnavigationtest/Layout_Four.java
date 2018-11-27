@@ -7,5 +7,5 @@ package hk.hku.cs.buttonnavigationtest;
  *  创建者：    BENNETT
  *  创建时间：  2018/10/16 20:35
  *  描述：      TODO
- */public class Layout_Four {
+ */public class Layout_Four{
 }

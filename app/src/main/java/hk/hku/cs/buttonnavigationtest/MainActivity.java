@@ -43,9 +43,9 @@ public class MainActivity extends AppCompatActivity {
 //                case R.id.navigation_newsevents:
 //                    mTextMessage.setText(R.string.title_newsevents);
 //                    return true;
-//                case R.id.navigation_sturesources:
-//                    mTextMessage.setText(R.string.title_sturesources);
-//                    return true;
+                case R.id.navigation_sturesources:
+                    replaceFragment(new Layout_Five());
+                    return true;
                 default:
                     break;
             }
