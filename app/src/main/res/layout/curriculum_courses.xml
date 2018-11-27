@@ -1,9 +1,1135 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ScrollView
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#F2F2F2">
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:stretchColumns="0,1">
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:background="#A1887F"
+                android:gravity="center"
+                android:text="Stream^ / Subject Group"
+                android:textSize="10dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:layout_marginLeft="5dp"
+                android:padding="5dp"
+                android:background="#A1887F"
+                android:gravity="center_vertical"
+                android:text="Course List (each course carries 6 credits)#"
+                android:textSize="10dp" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginTop="5dp"
+                android:background="#EA80FC"
+                android:gravity="center"
+                android:text="CyberSecurity"
+                android:textSize="10dp" />
+
+            <TableLayout>
+
+                <TableRow>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#E1BEE7"
+                        android:gravity="center_vertical"
+                        android:text="COMP7806"
+                        android:textSize="10dp" />
+
+                    <TextView
+                        android:padding="5dp"
+                        android:layout_width="201dp"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#E1BEE7"
+                        android:gravity="center_vertical"
+                        android:text="Topic in information security"
+                        android:textSize="10dp" />
 
 
+                </TableRow>
+
+                <TableRow>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#E1BEE7"
+                        android:gravity="center_vertical"
+                        android:text="COMP7901"
+                        android:textSize="10dp" />
+
+                    <TextView
+                        android:padding="5dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#E1BEE7"
+                        android:gravity="center_vertical"
+                        android:text="Digital investigation and forensics"
+                        android:textSize="10dp" />
+
+                </TableRow>
+
+                <TableRow>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#E1BEE7"
+                        android:gravity="center_vertical"
+                        android:text="COMP7903"
+                        android:textSize="10dp" />
+
+                    <TextView
+                        android:padding="5dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#E1BEE7"
+                        android:gravity="center_vertical"
+                        android:text="Information security: attacks and defense"
+                        android:textSize="10dp" />
+                </TableRow>
+
+                <TableRow>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#E1BEE7"
+                        android:gravity="center_vertical"
+                        android:text="COMP7904"
+                        android:textSize="10dp" />
+
+                    <TextView
+                        android:padding="5dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#E1BEE7"
+                        android:gravity="center_vertical"
+                        android:text="Information security: attacks and defense"
+                        android:textSize="10dp" />
+                </TableRow>
+
+                <TableRow>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#E1BEE7"
+                        android:gravity="center_vertical"
+                        android:text="COMP7905"
+                        android:textSize="10dp" />
+
+                    <TextView
+                        android:padding="5dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#E1BEE7"
+                        android:gravity="center_vertical"
+                        android:text="Reverse engineering and malware analysis"
+                        android:textSize="10dp" />
+                </TableRow>
+
+                <TableRow>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#E1BEE7"
+                        android:gravity="center_vertical"
+                        android:text="COMP7906"
+                        android:textSize="10dp" />
+
+                    <TextView
+                        android:padding="5dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#E1BEE7"
+                        android:gravity="center_vertical"
+                        android:text="Introduction to cyber security #"
+                        android:textSize="10dp" />
+                </TableRow>
+            </TableLayout>
+
+
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginTop="5dp"
+                android:background="#40C4FF"
+                android:gravity="center"
+                android:text="Financial Computing"
+                android:textSize="10dp" />
+
+            <TableLayout>
+
+                <TableRow>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#84FFFF"
+                        android:gravity="center_vertical"
+                        android:text="COMP7103"
+                        android:textSize="10dp" />
+
+                    <TextView
+                        android:padding="5dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#84FFFF"
+                        android:gravity="center_vertical"
+                        android:text="Data Mining"
+                        android:textSize="10dp" />
+
+
+                </TableRow>
+
+                <TableRow>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#84FFFF"
+                        android:gravity="center_vertical"
+                        android:text="COMP7405"
+                        android:textSize="10dp" />
+
+                    <TextView
+                        android:padding="5dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#84FFFF"
+                        android:gravity="center_vertical"
+                        android:text="Techniques in computational finance"
+                        android:textSize="10dp" />
+
+                </TableRow>
+
+                <TableRow>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#84FFFF"
+                        android:gravity="center_vertical"
+                        android:text="COMP7406"
+                        android:textSize="10dp" />
+
+                    <TextView
+                        android:padding="5dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#84FFFF"
+                        android:gravity="center_vertical"
+                        android:text="Software development for quantitative finance"
+                        android:textSize="10dp" />
+                </TableRow>
+
+                <TableRow>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#84FFFF"
+                        android:gravity="center_vertical"
+                        android:text="COMP7407"
+                        android:textSize="10dp" />
+
+                    <TextView
+                        android:padding="5dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#84FFFF"
+                        android:gravity="center_vertical"
+                        android:text="Securities transaction banking"
+                        android:textSize="10dp" />
+                </TableRow>
+
+                <TableRow>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#84FFFF"
+                        android:gravity="center_vertical"
+                        android:text="COMP7408"
+                        android:textSize="10dp" />
+
+                    <TextView
+                        android:padding="5dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#84FFFF"
+                        android:gravity="center_vertical"
+                        android:text="Distributed ledger and blockchain technology #"
+                        android:textSize="10dp" />
+                </TableRow>
+
+                <TableRow>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#84FFFF"
+                        android:gravity="center_vertical"
+                        android:text="COMP7802"
+                        android:textSize="10dp" />
+
+                    <TextView
+                        android:padding="5dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#84FFFF"
+                        android:gravity="center_vertical"
+                        android:text="Introduction to financial computing"
+                        android:textSize="10dp" />
+                </TableRow>
+
+                <TableRow>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#84FFFF"
+                        android:gravity="center_vertical"
+                        android:text="COMP7808"
+                        android:textSize="10dp" />
+
+                    <TextView
+                        android:padding="5dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#84FFFF"
+                        android:gravity="center_vertical"
+                        android:text="Topic in financial computing"
+                        android:textSize="10dp" />
+                </TableRow>
+
+                <TableRow>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#84FFFF"
+                        android:gravity="center_vertical"
+                        android:text="COMP7906"
+                        android:textSize="10dp" />
+
+                    <TextView
+                        android:padding="5dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#84FFFF"
+                        android:gravity="center_vertical"
+                        android:text="Introduction to cyber security #"
+                        android:textSize="10dp" />
+                </TableRow>
+            </TableLayout>
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginTop="5dp"
+                android:background="#FFFCC4"
+                android:gravity="center"
+                android:text="Multimedia Computing"
+                android:textSize="10dp" />
+
+            <TableLayout>
+
+                <TableRow>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#FFFCC4"
+                        android:gravity="center_vertical"
+                        android:text="COMP7502"
+                        android:textSize="10dp" />
+
+                    <TextView
+                        android:padding="5dp"
+                        android:layout_width="196dp"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#FFFCC4"
+                        android:gravity="center_vertical"
+                        android:text="Image processing and computer vision"
+                        android:textSize="10dp" />
+
+
+                </TableRow>
+
+                <TableRow>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#FFFCC4"
+                        android:gravity="center_vertical"
+                        android:text="COMP7503"
+                        android:textSize="10dp" />
+
+                    <TextView
+                        android:padding="5dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#FFFCC4"
+                        android:gravity="center_vertical"
+                        android:text="Multimedia technologies"
+                        android:textSize="10dp" />
+
+                </TableRow>
+
+                <TableRow>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#FFFCC4"
+                        android:gravity="center_vertical"
+                        android:text="COMP7504"
+                        android:textSize="10dp" />
+
+                    <TextView
+                        android:padding="5dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#FFFCC4"
+                        android:gravity="center_vertical"
+                        android:text="Pattern recognition and applications"
+                        android:textSize="10dp" />
+                </TableRow>
+
+                <TableRow>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#FFFCC4"
+                        android:gravity="center_vertical"
+                        android:text="COMP7505"
+                        android:textSize="10dp" />
+
+                    <TextView
+                        android:padding="5dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#FFFCC4"
+                        android:gravity="center_vertical"
+                        android:text="User interface design and development"
+                        android:textSize="10dp" />
+                </TableRow>
+
+                <TableRow>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#FFFCC4"
+                        android:gravity="center_vertical"
+                        android:text="COMP7506"
+                        android:textSize="10dp" />
+
+                    <TextView
+                        android:padding="5dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#FFFCC4"
+                        android:gravity="center_vertical"
+                        android:text="Smart phone apps development #"
+                        android:textSize="10dp" />
+                </TableRow>
+
+                <TableRow>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#FFFCC4"
+                        android:gravity="center_vertical"
+                        android:text="COMP7507"
+                        android:textSize="10dp" />
+
+                    <TextView
+                        android:padding="5dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#FFFCC4"
+                        android:gravity="center_vertical"
+                        android:text="Visualization and visual analytics"
+                        android:textSize="10dp" />
+                </TableRow>
+
+                <TableRow>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#FFFCC4"
+                        android:gravity="center_vertical"
+                        android:text="COMP7604"
+                        android:textSize="10dp" />
+
+                    <TextView
+                        android:padding="5dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#FFFCC4"
+                        android:gravity="center_vertical"
+                        android:text="Game design and development"
+                        android:textSize="10dp" />
+                </TableRow>
+
+                <TableRow>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#FFFCC4"
+                        android:gravity="center_vertical"
+                        android:text="COMP7807"
+                        android:textSize="10dp" />
+
+                    <TextView
+                        android:padding="5dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#FFFCC4"
+                        android:gravity="center_vertical"
+                        android:text="Topic in multimedia computing"
+                        android:textSize="10dp" />
+                </TableRow>
+            </TableLayout>
+        </TableRow>
+
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginTop="5dp"
+                android:background="#BDBDBD"
+                android:gravity="center"
+                android:text="Other Courses"
+                android:textSize="10dp" />
+
+            <TableLayout>
+
+                <TableRow>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#EEEEEE"
+                        android:gravity="center_vertical"
+                        android:text="COMP7104"
+                        android:textSize="10dp" />
+
+                    <TextView
+                        android:padding="5dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#EEEEEE"
+                        android:gravity="center_vertical"
+                        android:text="Advanced database systems #"
+                        android:textSize="10dp" />
+
+
+                </TableRow>
+
+                <TableRow>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#EEEEEE"
+                        android:gravity="center_vertical"
+                        android:text="COMP7201"
+                        android:textSize="10dp" />
+
+                    <TextView
+                        android:padding="5dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#EEEEEE"
+                        android:gravity="center_vertical"
+                        android:text="Analysis and design of enterprise applications in UML"
+                        android:textSize="10dp" />
+
+                </TableRow>
+
+                <TableRow>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#EEEEEE"
+                        android:gravity="center_vertical"
+                        android:text="COMP7203"
+                        android:textSize="10dp" />
+
+                    <TextView
+                        android:padding="5dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#EEEEEE"
+                        android:gravity="center_vertical"
+                        android:text="Modern software design"
+                        android:textSize="10dp" />
+                </TableRow>
+
+                <TableRow>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#EEEEEE"
+                        android:gravity="center_vertical"
+                        android:text="COMP7205"
+                        android:textSize="10dp" />
+
+                    <TextView
+                        android:padding="5dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#EEEEEE"
+                        android:gravity="center_vertical"
+                        android:text="Enterprise architecture"
+                        android:textSize="10dp" />
+                </TableRow>
+
+                <TableRow>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#EEEEEE"
+                        android:gravity="center_vertical"
+                        android:text="COMP7303"
+                        android:textSize="10dp" />
+
+                    <TextView
+                        android:padding="5dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#EEEEEE"
+                        android:gravity="center_vertical"
+                        android:text="High-performance computing"
+                        android:textSize="10dp" />
+                </TableRow>
+
+                <TableRow>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#EEEEEE"
+                        android:gravity="center_vertical"
+                        android:text="COMP7304"
+                        android:textSize="10dp" />
+
+                    <TextView
+                        android:padding="5dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#EEEEEE"
+                        android:gravity="center_vertical"
+                        android:text="The wireless Internet and mobile network"
+                        android:textSize="10dp" />
+                </TableRow>
+
+                <TableRow>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#EEEEEE"
+                        android:gravity="center_vertical"
+                        android:text="COMP7305"
+                        android:textSize="10dp" />
+
+                    <TextView
+                        android:padding="5dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#EEEEEE"
+                        android:gravity="center_vertical"
+                        android:text="Cluster and cloud computing"
+                        android:textSize="10dp" />
+                </TableRow>
+
+                <TableRow>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#EEEEEE"
+                        android:gravity="center_vertical"
+                        android:text="COMP7306"
+                        android:textSize="10dp" />
+
+                    <TextView
+                        android:padding="5dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#EEEEEE"
+                        android:gravity="center_vertical"
+                        android:text="Web technologies"
+                        android:textSize="10dp" />
+                </TableRow>
+                <TableRow>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#EEEEEE"
+                        android:gravity="center_vertical"
+                        android:text="COMP7307"
+                        android:textSize="10dp" />
+
+                    <TextView
+                        android:padding="5dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#EEEEEE"
+                        android:gravity="center_vertical"
+                        android:text="Advanced real-time embedded systems and applications"
+                        android:textSize="10dp" />
+                </TableRow>
+                <TableRow>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#EEEEEE"
+                        android:gravity="center_vertical"
+                        android:text="COMP7403"
+                        android:textSize="10dp" />
+
+                    <TextView
+                        android:padding="5dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#EEEEEE"
+                        android:gravity="center_vertical"
+                        android:text="Computational molecular biology"
+                        android:textSize="10dp" />
+                </TableRow>
+                <TableRow>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#EEEEEE"
+                        android:gravity="center_vertical"
+                        android:text="COMP7404"
+                        android:textSize="10dp" />
+
+                    <TextView
+                        android:padding="5dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#EEEEEE"
+                        android:gravity="center_vertical"
+                        android:text="Computational intelligence and machine learning"
+                        android:textSize="10dp" />
+                </TableRow>
+                <TableRow>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#EEEEEE"
+                        android:gravity="center_vertical"
+                        android:text="COMP7606"
+                        android:textSize="10dp" />
+
+                    <TextView
+                        android:padding="5dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#EEEEEE"
+                        android:gravity="center_vertical"
+                        android:text="Deep learning #"
+                        android:textSize="10dp" />
+                </TableRow>
+                <TableRow>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#EEEEEE"
+                        android:gravity="center_vertical"
+                        android:text="COMP7801"
+                        android:textSize="10dp" />
+
+                    <TextView
+                        android:padding="5dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#EEEEEE"
+                        android:gravity="center_vertical"
+                        android:text="Topic in computer science"
+                        android:textSize="10dp" />
+                </TableRow>
+
+                <TableRow>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#EEEEEE"
+                        android:gravity="center_vertical"
+                        android:text="COMP7805"
+                        android:textSize="10dp" />
+
+                    <TextView
+                        android:padding="5dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#EEEEEE"
+                        android:gravity="center_vertical"
+                        android:text="Topic in computer network and systems"
+                        android:textSize="10dp" />
+                </TableRow>
+
+
+            </TableLayout>
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginTop="5dp"
+                android:background="#FFA726"
+                android:gravity="center"
+                android:text="Capstone Experience"
+                android:textSize="10dp" />
+
+            <TableLayout>
+
+                <TableRow>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#FFCC80"
+                        android:gravity="center_vertical"
+                        android:text="COMP7704"
+                        android:textSize="10dp" />
+
+                    <TextView
+                        android:padding="5dp"
+                        android:layout_width="199dp"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#FFCC80"
+                        android:gravity="center_vertical"
+                        android:text="Dissertation (24 credits)"
+                        android:textSize="10dp" />
+
+
+                </TableRow>
+
+                <TableRow>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#E1BEE7"
+                        android:gravity="center_vertical"
+                        android:text="COMP7705"
+                        android:textSize="10dp" />
+
+                    <TextView
+                        android:padding="5dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginTop="5dp"
+                        android:background="#E1BEE7"
+                        android:gravity="center_vertical"
+                        android:text="Project (12 credits)"
+                        android:textSize="10dp" />
+
+                </TableRow>
+
+            </TableLayout>
+        </TableRow>
+
+        <TableRow>
+
+        </TableRow>
+    </TableLayout>
+
+
+        <TextView
+            android:textSize="20dp"
+            android:layout_margin="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="^ Students with focussed streams of study have to take at least 24 credits courses (equivalent to four 6-credit courses) in the corresponding subject group.
+
+# Subject to University's approval"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="38dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="16dp"
+            android:text="Course Descriptions"
+            android:textSize="25dp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:src="@drawable/smallyellow" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginTop="20dp"
+            android:lineSpacingExtra="6dp"
+            android:text="More Information about the courses of MSC(CS) can be get by clicking the following button." />
+
+        <Button
+            android:layout_marginTop="20dp"
+            android:id="@+id/courses_cs_moredetails"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="#FF9800"
+            android:text="      MSC(CS) COURSES      "
+            android:textColor="#ffffff" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="38dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="16dp"
+            android:text="MSc(ECom&amp;IComp) Courses"
+            android:textSize="25dp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:src="@drawable/smallyellow" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginTop="20dp"
+            android:lineSpacingExtra="6dp"
+            android:text="The courses in the MSc in Electronic Commerce and Internet Computing programme, which is also offered by the Department of Computer Science, are suitable for students with working experience focusing on the business exploitation of technologies rather than just studying the technologies alone.  More details of courses from MSc(ECom&amp;IComp), please clickthe following button." />
+
+        <Button
+            android:layout_marginTop="20dp"
+            android:id="@+id/courses_ECOM_ICOMP"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="#9C27B0"
+            android:text="      MSC(ECOM&amp;ICOMP) COURSES      "
+            android:textColor="#ffffff" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginTop="20dp"
+            android:lineSpacingExtra="6dp"
+            android:text="Students may select no more than 12 credits of courses (equivalent to two 6-credit courses) from the syllabuses for the MSc(ECom&amp;IComp) curriculum, subject to the approval of the Head of the Department of Computer Science.
+
+" />
+
+
+
+        <include layout="@layout/bottom_info" />
+    </LinearLayout>
 </ScrollView>
