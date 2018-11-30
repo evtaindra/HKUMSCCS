@@ -17,7 +17,7 @@ import hk.hku.cs.buttonnavigationtest.R;
  *  文件名：    Faculty
  *  创建者：    BENNETT
  *  创建时间：  2018/10/15 20:12
- *  描述：      TODO
+ *  描述：      绑定Faculty界面
  */public class Faculty extends android.support.v4.app.Fragment{
     @Nullable
     @Override
