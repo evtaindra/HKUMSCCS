@@ -40,9 +40,9 @@ public class MainActivity extends AppCompatActivity {
                 case R.id.navigation_curriculum:
                     replaceFragment(new Layout_Three());
                     return true;
-//                case R.id.navigation_newsevents:
-//                    mTextMessage.setText(R.string.title_newsevents);
-//                    return true;
+                case R.id.navigation_newsevents:
+                    replaceFragment(new Layout_Four());
+                    return true;
                 case R.id.navigation_sturesources:
                     replaceFragment(new Layout_Five());
                     return true;
